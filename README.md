@@ -3,6 +3,8 @@ CardGame
 
 A simple Draw Poker style game which shuffles the deck after every turn.  User is given 5 cards and has the choice to hold as many of them he likes.User is given points based on the hand rank (pairs, straights, full house, etc.)
 
+Launch without cloning: (Launch Game) [https://rawgit.com/Christian4561/CardGame/initial/CardGame.html]
+
 References:
 
 http://www.informit.com/library/content.aspx?b=STY_JavaScript_24_hours&seqNum=227
